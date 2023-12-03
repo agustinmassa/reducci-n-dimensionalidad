@@ -1,2 +1,3 @@
-# reducci-n-dimensionalidad
-Aplico reducción de dimensionalidad a dos datasets AnsurMen.csv y AnsurWomen.csv
+# Reducción de dimensionalidad
+Realizo una reducción de dimensionalidad a dos datasets AnsurMen.csv y AnsurWomen.csv. Debido a que trabajar en espacios de gran dimensionalidad, lo que es lo mismo, trabajar con datos con muchas features o campos, es frecuentemente inconveniente o incluso imposible. Uno puede querer reducir la dimensionalidad con vistas a hacer visualizaciones, ahorrar espacio ocupado por los datos, reducir los costos computacionales de entrenamiento de algoritmos, reduciendo el número de características y aumentar la performance de un modelo aumentando la relación señal/ruido, así como la densidad.
+Aplico PCA, el objetivo del Análisis de Componente Principales es encontrar las direcciones sobre las cuales proyectar los datos de forma a minimizar la pérdida de información al reducir la dimensionalidad. 
